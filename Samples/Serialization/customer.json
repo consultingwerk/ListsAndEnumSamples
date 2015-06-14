@@ -1,0 +1,34 @@
+{
+  "SerializedType": "Samples.Serialization.Customer",
+  "Addresses": [
+    {
+      "SerializedType": "Samples.Serialization.Address",
+      "Country": "USA",
+      "Address": "test",
+      "Address2": "poipoi",
+      "City": "Burlington",
+      "State": "MA",
+      "PostalCode": "01730",
+      "AddressType": "Unknown"
+    },
+    {
+      "SerializedType": "Samples.Serialization.Address",
+      "Address": "219 Littleton Road",
+      "City": "Westford",
+      "State": "MA",
+      "PostalCode": "01886",
+      "AddressType": "Invoice"
+    }
+  ],
+  "CustNum": 1,
+  "Name": "Lift Tours Corp GmbH",
+  "Contact": "Gloria Shepley",
+  "Phone": "(617) 450-0086",
+  "SalesRep": "HXM",
+  "CreditLimit": 66700.0,
+  "Balance": 903.64,
+  "Discount": 35,
+  "Comments": "This customer is on credit hold.",
+  "EmailAddress": "info@lift-tours.com",
+  "Terms": "Net30"
+}
